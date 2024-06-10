@@ -16,5 +16,8 @@ The process that happen in this project is when the sensor detected a certain co
 Additionally this project use the PID theory for the speed and accuracy of the servo motor.
 There will be photos and Youtube Video link down below
 
+# Report Link
+This is the report link and the language set in Indonesian : https://hackmd.io/@MYTgg4XPSgqJHfpVWQ6BQQ/AlatPendeteksiWarna
+
 ### Video Link
 This is the Link of the Video : https://youtu.be/9o4GC0uLnYs
